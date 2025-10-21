@@ -154,6 +154,7 @@ header .container {
     font-weight: bold;
     border-radius: 5px;
     transition: background-color 0.3s;
+    margin-right: 50px;
 }
 
 .btn-agendar:hover {
